@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "nome": "Thomas",
-        "idade": 17,
-        "curso": "Desenvolvimento de Sistemas"
+        "título": "Desenvolvimento de Sistemas",
+        "curso": "Técnico em Desenvolvimento de Sistemas",
+        "nome": "Ramon"
     }
 ]
