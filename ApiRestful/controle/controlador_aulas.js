@@ -1,4 +1,4 @@
-const {listarAulas, atualizarAulas} = require('')
+const {listarAulas, atualizarAulas} = require('../modelo/aulas_modelo')
 
 function pegarTodasAsAulas(req, res) {
     lerBancoDeDados((err, dados) => {
